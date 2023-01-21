@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ctl-sawei/static/css/main.073c9b0a.css",
-    "main.js": "/ctl-sawei/static/js/main.51b01b21.js",
+    "main.css": "/ctl-sawei/static/css/main.8fee81cc.css",
+    "main.js": "/ctl-sawei/static/js/main.d6d0b7d1.js",
     "static/js/787.448571c5.chunk.js": "/ctl-sawei/static/js/787.448571c5.chunk.js",
-    "static/media/logo.svg": "/ctl-sawei/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ctl-sawei/index.html",
-    "main.073c9b0a.css.map": "/ctl-sawei/static/css/main.073c9b0a.css.map",
-    "main.51b01b21.js.map": "/ctl-sawei/static/js/main.51b01b21.js.map",
+    "main.8fee81cc.css.map": "/ctl-sawei/static/css/main.8fee81cc.css.map",
+    "main.d6d0b7d1.js.map": "/ctl-sawei/static/js/main.d6d0b7d1.js.map",
     "787.448571c5.chunk.js.map": "/ctl-sawei/static/js/787.448571c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.51b01b21.js"
+    "static/css/main.8fee81cc.css",
+    "static/js/main.d6d0b7d1.js"
   ]
 }
