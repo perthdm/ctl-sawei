@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h4 {
+ margin: 5px 0px 10px 0px;
+}
+
+.fix-pd-card > .ant-card-body{
+ padding : 6px 6px 2px 6px !important
+}
